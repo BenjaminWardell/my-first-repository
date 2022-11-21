@@ -1,5 +1,3 @@
 # GIT BASICS
 
-## Table of contents
-
-- example_file.txt
+Hello, world! I love using Git
