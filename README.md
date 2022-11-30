@@ -1,3 +1,5 @@
 # GIT BASICS
 
-Hello, world! I love using Git
+Making Changes
+
+For Launch School Training
